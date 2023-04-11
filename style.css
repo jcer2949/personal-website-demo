@@ -20,7 +20,9 @@ h3{
     font-size: large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-#pokemon-image{
-    flex-direction:row ;
-    
+.pokemon{
+    text-align: center;
+}
+portfolio.images{
+    text-align: center;
 }
