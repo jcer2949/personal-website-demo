@@ -1,0 +1,26 @@
+body{
+    background-color: #8d86c9;
+}
+
+
+  header {
+    background-color: #cac4ce; 
+    text-align: center;
+    color: #f7ece1;
+    font-family: Courier New, monospace;
+    
+}
+ 
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#pokemon-image{
+    flex-direction:row ;
+    
+}
